@@ -1,3 +1,6 @@
+# This is a simple .gitignore that will ignore everything
+# except this file, and cpp and h files
+
 #ignore everything
 *
 */
